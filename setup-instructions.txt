@@ -9,3 +9,5 @@ create files
 
 git commit -a -m "Adding pages"
 git push origin gh-pages
+
+takes a few minutes to show up publically
