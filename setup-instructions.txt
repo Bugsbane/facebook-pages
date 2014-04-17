@@ -1,0 +1,11 @@
+New repo at: https://help.github.com/articles/create-a-repo
+git clone https://github.com/user/repository.git
+cd repository
+
+git checkout --orphan gh-pages
+git rm -rf .
+
+create files
+
+git commit -a -m "Adding pages"
+git push origin gh-pages
